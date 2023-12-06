@@ -1,4 +1,4 @@
-// AOC 2023 - Day 2
+// AOC 2023 - Day 4
 
 // #region Parsing
 let input = require('fs').readFileSync('./input.txt').toString()

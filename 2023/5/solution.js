@@ -1,4 +1,4 @@
-// AOC 2023 - Day 2
+// AOC 2023 - Day 5
 const fs = require('fs')
 const Parallel = require('paralleljs')
 
